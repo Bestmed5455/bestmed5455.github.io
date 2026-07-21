@@ -1,15 +1,15 @@
 <div align="center">
 
   <h1>Miraz Bakis</h1>
-  <p><strong>Official Portfolio & Project Hub</strong></p>
+  <p><strong>Upcoming Developer</strong></p>
   
-  <p>Welcome to the official website for Miraz Bakis! Here I will share my future and current projects publicly for everyone to see.</p>
+  <p>Welcome to the official website of Miraz Bakis! Here I will share my future and current projects publicly for everyone to see.</p>
 
   <br>
 
   <!-- Sleek Action Buttons (SideStore style) -->
-  <a href="store/" style="background-color: #2f363d; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-right: 10px;">🪨 Visit Rock Store</a>
-  <a href="#ai-tool" style="background-color: #0366d6; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;">🤖 AI Tool (Coming Soon)</a>
+  <a href="store/" style="background-color: #2f363d; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-right: 10px;"> Visit Rock Store</a>
+  <a href="#ai-tool" style="background-color: #0366d6; color: #ffffff; padding: 10px 20px; border-radius: 6px; text-decoration: none; font-weight: bold;"> AI Tool (Coming Soon)</a>
 
 </div>
 
