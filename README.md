@@ -1,2 +1,3 @@
-You've reached the domain for Miraz Bakis. This page is for personal development purposes only. 
-# **Work in Progress:** Rock Collection.
+# Miraz Bakis
+Welcome to the official website for Miraz Bakis! (View full repository (here)[https://github.com/mirazbakis/mirazbakis.github.io])
+ **Work in Progress:** Rock Collection.
